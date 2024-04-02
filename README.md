@@ -72,6 +72,3 @@ This project provides an in-depth analysis of Indian stock data, from data colle
 
 Feel free to contribute, explore, and improve this project! Let's predict Indian stock prices together.
 
----
-
-*Note: This project is under the [Apache License 2.0](LICENSE).*
